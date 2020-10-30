@@ -1,0 +1,7 @@
+.viewport {
+    width: '100%';
+    overflow-y: scroll;
+  }
+  .item {
+    height: 20px;
+  }
